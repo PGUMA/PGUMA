@@ -23,7 +23,10 @@ I can handle requirement definition, design, implementation, testing, and a whol
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 </div>  
 
-## Github Stats  
+## Github Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PGUMA&theme=2077)
+
 <table>
   <tr>
     <td valign="top" width="50%">
