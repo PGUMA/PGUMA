@@ -38,6 +38,8 @@ I can handle requirement definition, design, implementation, testing, and a whol
   </tr>
 </table>  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=PGUMA&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+
 ### Thank you for visiting  
 ![Profile views counter](https://komarev.com/ghpvc/?username=PGUMA&&style=flat-square)  
   
