@@ -40,6 +40,22 @@ I can handle requirement definition, design, implementation, testing, and a whol
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PGUMA&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 
+### Ability 
+
+<section>
+  <h3>Infra</h3>
+  <img src="https://img.shields.io/badge/-Terraform-844FBA.svg?logo=terraform&style=flat">
+  <img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat">
+  <img src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat">
+  <img src="https://img.shields.io/badge/-Redis-D82C20.svg?logo=redis&style=flat">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat">
+</section>
+
+<section>
+  <h3>Cloud Provider</h3>
+  <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat">
+</section>
+
 ### Thank you for visiting  
 ![Profile views counter](https://komarev.com/ghpvc/?username=PGUMA&&style=flat-square)  
   
